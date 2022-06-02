@@ -1,6 +1,6 @@
  # sobre mim
-- 👋 olá meu nome é @samuelpll
-- :+1:  Meu email para contato é @samuka.limacwb@gmail.com
+- 👋 olá meu nome é **@SamuelPll**
+- :+1:  Meu email para contato  [email para contato](samuka.limacwb@gmail.com)
 - 👀 Eu quero aprender a programar novas linguagens
 - 🌱 Eu estou aprendendo a programar em java script
 
